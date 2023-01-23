@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="First Commit">
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Update Salary.java">
+      <change afterPath="$PROJECT_DIR$/src/Lab2/MySwitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674457094075</updated>
       <workItem from="1674457095699" duration="163000" />
-      <workItem from="1674457318476" duration="6180000" />
+      <workItem from="1674457318476" duration="6914000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674459897858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Salary.java">
+      <created>1674464207222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674464207224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Update Salary.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Salary.java" />
   </component>
 </project>
