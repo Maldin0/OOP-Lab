@@ -1,14 +1,8 @@
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String n1 = sc.nextLine();
-        String n2 = sc.nextLine();
-        if (n1.equals(n2)) {
-            System.out.println("==");
-        } else {
-            System.out.println("!=");
+        for (int j = -10, i = 1; j <= 10 & i >= 0; j -= 10, i++) {
+            System.out.println(i+" "+j);
         }
+        System.out.println("Finished");
     }
 }
