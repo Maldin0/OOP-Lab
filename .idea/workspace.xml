@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Create MySwitch.java">
-      <change afterPath="$PROJECT_DIR$/src/Lab3/BoBTheBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Fifth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/OddEven.java" afterDir="false" />
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Update new Lab3 assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab3/Fifth2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/Fifth2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +65,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +81,7 @@
       <workItem from="1674457095699" duration="163000" />
       <workItem from="1674457318476" duration="7072000" />
       <workItem from="1674785794925" duration="1393000" />
-      <workItem from="1675355923557" duration="3996000" />
+      <workItem from="1675355923557" duration="4457000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -102,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674464967235</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update new Lab3 assignment">
+      <created>1675360299699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675360299699</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +122,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Update Salary.java" />
     <MESSAGE value="Creat MySwitch.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creat MySwitch.java" />
+    <MESSAGE value="Update new Lab3 assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update new Lab3 assignment" />
   </component>
 </project>

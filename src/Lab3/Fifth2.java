@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author Maldin0
- * @created 2/3/2023 - 12:40 AM
+ * @created 2/3/2023 - 12:45 AM
  * @project OOP-Lab
  */
 public class Fifth2 {
