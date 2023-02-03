@@ -11,7 +11,6 @@ public class OddEven {
         int odd = 0, even = 0, num;
         while (true){
             num = input.nextInt();
-            num %= 2;
             if (num != -1){
                 if (num % 2 == 0) {
                     even++;

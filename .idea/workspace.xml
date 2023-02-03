@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Update new Lab3 assignment">
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Fix file created time">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab3/Fifth2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/Fifth2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab3/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/OddEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,8 @@
       <workItem from="1674457095699" duration="163000" />
       <workItem from="1674457318476" duration="7072000" />
       <workItem from="1674785794925" duration="1393000" />
-      <workItem from="1675355923557" duration="4457000" />
+      <workItem from="1675355923557" duration="4600000" />
+      <workItem from="1675391580018" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -111,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675360299699</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix file created time">
+      <created>1675360463849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675360463849</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +131,7 @@
     <MESSAGE value="Update Salary.java" />
     <MESSAGE value="Creat MySwitch.java" />
     <MESSAGE value="Update new Lab3 assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update new Lab3 assignment" />
+    <MESSAGE value="Fix file created time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix file created time" />
   </component>
 </project>
