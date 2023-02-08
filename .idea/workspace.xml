@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Fix file created time">
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Fix OddEven.java">
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Show.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab3/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +73,20 @@
       <recent name="Lab3" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OOP-Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +99,8 @@
       <workItem from="1674457318476" duration="7072000" />
       <workItem from="1674785794925" duration="1393000" />
       <workItem from="1675355923557" duration="4600000" />
-      <workItem from="1675391580018" duration="146000" />
+      <workItem from="1675391580018" duration="2585000" />
+      <workItem from="1675843587594" duration="7651000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -119,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675360463849</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fix file created time">
+      <created>1675391745966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675391745966</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix OddEven.java">
+      <created>1675391860653</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675391860653</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +164,7 @@
     <MESSAGE value="Creat MySwitch.java" />
     <MESSAGE value="Update new Lab3 assignment" />
     <MESSAGE value="Fix file created time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix file created time" />
+    <MESSAGE value="Fix OddEven.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix OddEven.java" />
   </component>
 </project>
