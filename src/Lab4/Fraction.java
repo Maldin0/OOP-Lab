@@ -57,6 +57,7 @@ class Main2 {
 //        f1.addFraction(f2);
 //        System.out.println("after "+f1.toFraction());
 //        System.out.println("after "+f1.toFloat());
+
         Fraction f1 = new Fraction();
         f1.topN = 1;
         f1.btmN = 3;
