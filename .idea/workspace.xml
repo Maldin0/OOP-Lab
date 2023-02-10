@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="finished Lab4">
-      <change afterPath="$PROJECT_DIR$/src/Lab4/Main.java" afterDir="false" />
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Debugged Lab4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab4/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4/Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Fraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <recent name="Lab3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="OOP-Lab" />
@@ -98,8 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCat" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestCat" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +116,8 @@
       <workItem from="1675869318468" duration="1194000" />
       <workItem from="1675870536820" duration="690000" />
       <workItem from="1675927114773" duration="2559000" />
-      <workItem from="1675994945859" duration="1756000" />
+      <workItem from="1675994945859" duration="3201000" />
+      <workItem from="1675998405052" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -185,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675929680612</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Debugged Lab4">
+      <created>1675996939655</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675996939655</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +205,7 @@
     <MESSAGE value="Fix OddEven.java" />
     <MESSAGE value="New Lab4" />
     <MESSAGE value="finished Lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Lab4" />
+    <MESSAGE value="Debugged Lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debugged Lab4" />
   </component>
 </project>
