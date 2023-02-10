@@ -32,7 +32,7 @@ public class Account {
         }
     }
 
-    public void showinfo() {
-        System.out.println("In " + name + " account, there is a balance equal to " + balance + " baht");
+    public void showInfo() {
+        System.out.println("In " + name + " account, there is a balance equal to " + balance + " baht.");
     }
 }
