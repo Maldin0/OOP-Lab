@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Debugged Lab4">
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/FootballPLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +121,10 @@
       <workItem from="1675870536820" duration="690000" />
       <workItem from="1675927114773" duration="2559000" />
       <workItem from="1675994945859" duration="3201000" />
-      <workItem from="1675998405052" duration="338000" />
+      <workItem from="1675998405052" duration="364000" />
+      <workItem from="1676356378521" duration="620000" />
+      <workItem from="1676361281757" duration="3413000" />
+      <workItem from="1676364786331" duration="3377000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -189,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675996939655</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Debugged Lab4">
+      <created>1675998758726</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675998758726</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
