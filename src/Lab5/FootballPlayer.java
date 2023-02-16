@@ -5,7 +5,7 @@ package Lab5;
  * @created 2/14/2023 - 3:25 PM
  * @project OOP-Lab
  */
-public class FootballPLayer extends Player {
+public class FootballPlayer extends Player {
     private int playerNumber;
     private String position;
 
@@ -25,7 +25,7 @@ public class FootballPLayer extends Player {
         this.position = p;
     }
 
-    public boolean isSamePosition(FootballPLayer p) {
+    public boolean isSamePosition(FootballPlayer p) {
 //        return this.isSameTeam(p)&(this.getPosition().equals(p.getPosition()));
         return (p.getPosition().equals(this.getPosition())) &
                 (p.getTeam().equals(this.getTeam()));

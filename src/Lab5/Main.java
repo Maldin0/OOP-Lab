@@ -54,12 +54,12 @@ public class Main {
     }
 
     public static void testFootball(int c) {
-        FootballPLayer p1 = new FootballPLayer();
+        FootballPlayer p1 = new FootballPlayer();
         p1.setName("Harry");
         p1.setTeam("Gryffindor");
         p1.setPlayerNumber(1);
         p1.setPosition("keeper");
-        FootballPLayer p2 = new FootballPLayer();
+        FootballPlayer p2 = new FootballPlayer();
         p2.setName("Jame");
         p2.setTeam("Gryffindor");
         p2.setPlayerNumber(1);
