@@ -44,7 +44,7 @@ public class Employee {
     }
 
     public void eat(Food f) {
-        this.energy += Food.getEnergy();
+        this.energy += f.getEnergy();
     }
 
     public boolean buyFood(Seller s) {
