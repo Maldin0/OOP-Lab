@@ -76,16 +76,16 @@ public class Main {
         sp1.setWallet(w2);
         sp1.setHappiness(100);
 
-        System.out.println(sp1 + "\nHappiness : " +sp1.getHappiness());
+        System.out.println(sp1 + "\nHappiness : " + sp1.getHappiness());
         sp1.coding('A');
         sp1.coding("Bugggggg");
-        sp1.coding("Bugggggg",2);
-        System.out.println(sp1 + "\nHappiness : " +sp1.getHappiness());
+        sp1.coding("Bugggggg", 2);
+        System.out.println(sp1 + "\nHappiness : " + sp1.getHappiness());
         System.out.println("---------------------------------");
-        System.out.println(p1 + "\nHappiness : " +p1.getHappiness());
+        System.out.println(p1 + "\nHappiness : " + p1.getHappiness());
         p1.coding('B');
         p1.coding("Deathhhhhhhh");
-        System.out.println(p1 + "\nHappiness : " +p1.getHappiness());
+        System.out.println(p1 + "\nHappiness : " + p1.getHappiness());
     }
 
 }
