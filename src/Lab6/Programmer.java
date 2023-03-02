@@ -17,18 +17,18 @@ public class Programmer extends Employee {
     }
 
     public void coding(String str) {
-        int num = 30;
-        SeniorProgrammer sp = new SeniorProgrammer();
+//        int num = 30;
+//        SeniorProgrammer sp = new SeniorProgrammer();
         if (this.getEnergy() >= 30) {
             System.out.println("Your code is " + str);
         } else {
             System.out.println("Error Error Error");
         }
-        if (this.getClass() == sp.getClass()) {
-            num = 5;
-        }
-        this.setEnergy(this.getEnergy() - num);
-        this.setHappiness(this.getHappiness() - num);
+//        if (this.getClass() == sp.getClass()) {
+//            num = 5;
+//        }
+        this.setEnergy(this.getEnergy() - 30);
+        this.setHappiness(this.getHappiness() - 30);
     }
 
     public void coding(char str) {
