@@ -6,7 +6,7 @@ package Lab7;
  * @project OOP-Lab
  */
 public class Plane extends Vehicle implements Flyable {
-    private final int MAX_FLYER = 2;
+    private static final int MAX_FLYER = 2;
     private String airline;
     private String boeing;
 
@@ -40,14 +40,14 @@ public class Plane extends Vehicle implements Flyable {
     public void startEngine() {
         if (this.getFuel() >= 20) {
             this.setFuel(this.getFuel() - 20);
-            System.out.println("Plane's Engine starts");
+            System.out.println("Plane’s Engine starts");
         } else {
             System.out.println("Fuel is not enough.");
         }
     }
 
     public void stopEngine() {
-        System.out.println("Plane's Engine stops");
+        System.out.println("Plane’s Engine stops");
     }
 
     public void honk() {

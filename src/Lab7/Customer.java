@@ -50,7 +50,7 @@ public class Customer {
 
     public String toString() {
         if (acct == null) {
-            return this.getFirstName() + " " + this.getLastName() + " doesn't have account.";
+            return this.getFirstName() + " " + this.getLastName() + " doesn’t have account.";
         } else {
             return "The " + this.getFirstName() + " account has " + acct.getBalance() + " baht and " + acct.getCredit() + " credits.";
         }

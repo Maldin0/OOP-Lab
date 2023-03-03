@@ -6,5 +6,5 @@ package Lab7;
  * @project OOP-Lab
  */
 public interface Floatable {
-    void fl0at();
+    public abstract void fl0at();
 }

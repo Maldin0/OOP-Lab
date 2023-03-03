@@ -6,8 +6,8 @@ package Lab7;
  * @project OOP-Lab
  */
 public interface Dieselable {
-    void startEngine();
+    public abstract void startEngine();
 
-    void stopEngine();
+    public abstract void stopEngine();
 
 }

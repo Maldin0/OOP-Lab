@@ -6,9 +6,9 @@ package Lab7;
  * @project OOP-Lab
  */
 public interface Flyable {
-    void fly();
+    public abstract void fly();
 
-    void takeOff();
+    public abstract void takeOff();
 
-    void landing();
+    public abstract void landing();
 }
