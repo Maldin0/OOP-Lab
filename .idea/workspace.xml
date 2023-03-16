@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Updated Lab7">
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Debugged lab7">
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab7/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab7/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab7/Dieselable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab7/Dieselable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab7/Floatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab7/Floatable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab7/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab7/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab7/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab7/Plane.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab8" />
       <recent name="Lab3" />
     </key>
   </component>
@@ -112,7 +113,8 @@
       <workItem from="1677759510429" duration="4196000" />
       <workItem from="1677775207500" duration="11845000" />
       <workItem from="1677787926001" duration="3028000" />
-      <workItem from="1677811015907" duration="3668000" />
+      <workItem from="1677811015907" duration="3712000" />
+      <workItem from="1678971668015" duration="5343000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -233,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677790924510</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Debugged lab7">
+      <created>1677823623435</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677823623435</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +275,7 @@
     <MESSAGE value="Update Lab6" />
     <MESSAGE value="Debugged Lab6" />
     <MESSAGE value="Updated Lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Lab7" />
+    <MESSAGE value="Debugged lab7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debugged lab7" />
   </component>
 </project>
