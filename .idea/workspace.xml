@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Debugged lab7">
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Main.java" afterDir="false" />
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="New Lab8">
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/CalculatorOneGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/CalculatorTwoGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/TellerGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,10 +63,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Doomf/OneDrive - KMITL/1st year/ss2/OOP/OOP-Project&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -114,7 +116,17 @@
       <workItem from="1677775207500" duration="11845000" />
       <workItem from="1677787926001" duration="3028000" />
       <workItem from="1677811015907" duration="3712000" />
-      <workItem from="1678971668015" duration="5343000" />
+      <workItem from="1678971668015" duration="5545000" />
+      <workItem from="1679555930010" duration="150000" />
+      <workItem from="1679625377232" duration="933000" />
+      <workItem from="1679678067780" duration="896000" />
+      <workItem from="1679735374304" duration="45000" />
+      <workItem from="1680167154076" duration="4063000" />
+      <workItem from="1680171325417" duration="268000" />
+      <workItem from="1680183726754" duration="332000" />
+      <workItem from="1680184487300" duration="6000" />
+      <workItem from="1680188922611" duration="2337000" />
+      <workItem from="1680198480585" duration="3587000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -242,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677823623435</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="New Lab8">
+      <created>1678977217541</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678977217541</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +295,7 @@
     <MESSAGE value="Debugged Lab6" />
     <MESSAGE value="Updated Lab7" />
     <MESSAGE value="Debugged lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debugged lab7" />
+    <MESSAGE value="New Lab8" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Lab8" />
   </component>
 </project>
