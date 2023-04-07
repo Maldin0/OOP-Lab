@@ -13,7 +13,7 @@ public class CalculatorTwoGUI {
     public CalculatorTwoGUI() {
         JFrame frame = new JFrame("My Calculator");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(250, 400);
+        frame.getContentPane().setPreferredSize(new Dimension(400,600));
         frame.setResizable(false);
 
         Container container = frame.getContentPane();
@@ -129,7 +129,7 @@ public class CalculatorTwoGUI {
         }
 
         container.add(buttonPanel, BorderLayout.CENTER);
-
+        frame.pack();
         frame.setVisible(true);
     }
 }

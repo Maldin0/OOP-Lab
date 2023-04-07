@@ -51,6 +51,7 @@ public class TellerGUI {
             public void actionPerformed(ActionEvent e) {
                 double num1 = Double.parseDouble(bTextField.getText());
                 double num2 = Double.parseDouble(aTextField.getText());
+                if (num1-num2 < 0) {return;}
                 double result = num1-num2;
                 bTextField.setText(Double.toString(result));
                 aTextField.setText("");
@@ -80,8 +81,4 @@ public class TellerGUI {
 
         frame.setVisible(true);
     }
-
-
-
-
 }

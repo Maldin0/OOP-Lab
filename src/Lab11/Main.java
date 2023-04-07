@@ -1,4 +1,8 @@
-package Lab10;
+package Lab11;
+
+import Lab11.CalculatorOneGUI;
+import Lab11.CalculatorTwoGUI;
+import Lab11.TellerGUI;
 
 import javax.swing.*;
 
@@ -14,9 +18,10 @@ public class Main {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        SwingUtilities.invokeLater(() -> { MDIFromGUI frame = new MDIFromGUI(); });
+        SwingUtilities.invokeLater(() -> {
         new CalculatorOneGUI();
         new CalculatorTwoGUI();
         new TellerGUI();
+        });
     }
 }

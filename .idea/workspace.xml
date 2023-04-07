@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="New Lab8">
-      <change afterPath="$PROJECT_DIR$/src/Lab10/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab10/CalculatorOneGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab10/CalculatorTwoGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab10/TellerGUI.java" afterDir="false" />
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="New Lab10(Not finished)">
+      <change afterPath="$PROJECT_DIR$/src/Lab10/MDIFromGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab11/CalculatorOneGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab11/CalculatorTwoGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab11/TellerGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab10/CalculatorTwoGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab10/CalculatorTwoGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab10/TellerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab10/TellerGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +81,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab11" />
       <recent name="Lab8" />
       <recent name="Lab3" />
     </key>
@@ -126,7 +130,10 @@
       <workItem from="1680183726754" duration="332000" />
       <workItem from="1680184487300" duration="6000" />
       <workItem from="1680188922611" duration="2337000" />
-      <workItem from="1680198480585" duration="3587000" />
+      <workItem from="1680198480585" duration="3874000" />
+      <workItem from="1680229240924" duration="4819000" />
+      <workItem from="1680766262734" duration="678000" />
+      <workItem from="1680833937271" duration="5204000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -261,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678977217541</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="New Lab10(Not finished)">
+      <created>1680202297677</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680202297677</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,6 +310,7 @@
     <MESSAGE value="Updated Lab7" />
     <MESSAGE value="Debugged lab7" />
     <MESSAGE value="New Lab8" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Lab8" />
+    <MESSAGE value="New Lab10(Not finished)" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Lab10(Not finished)" />
   </component>
 </project>
