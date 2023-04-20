@@ -33,7 +33,7 @@ public class StudentView implements ActionListener, WindowListener {
     public StudentView() {
         student = new Student();
         frame = new JFrame();
-        frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setPreferredSize(new Dimension(200, 180));
         frame.setResizable(false);
         frame.addWindowListener(this);
@@ -141,7 +141,6 @@ public class StudentView implements ActionListener, WindowListener {
     @Override
     public void windowClosing(WindowEvent e) {
         saveStdLog();
-        System.exit(0);
     }
 
     @Override

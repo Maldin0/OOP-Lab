@@ -115,7 +115,6 @@ public class ChatDemo extends JFrame implements ActionListener, WindowListener {
     @Override
     public void windowClosing(WindowEvent e) {
         saveChatLog();
-        System.exit(0);
     }
 
     @Override

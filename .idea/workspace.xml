@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="New Lab11">
-      <change afterPath="$PROJECT_DIR$/ChatDemo.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentM.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12/ChatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/WithdrawException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab11/CalculatorTwoGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab11/CalculatorTwoGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab11/TellerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab11/TellerGUI.java" afterDir="false" />
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="new Lab9 and Lab12">
+      <change beforePath="$PROJECT_DIR$/src/Lab12/ChatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab12/ChatDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab12/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab12/StudentView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +154,7 @@
       <workItem from="1680229240924" duration="4819000" />
       <workItem from="1680766262734" duration="678000" />
       <workItem from="1680833937271" duration="5466000" />
-      <workItem from="1681981718477" duration="19930000" />
+      <workItem from="1681981718477" duration="20656000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -315,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680839434029</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="new Lab9 and Lab12">
+      <created>1682002470293</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1682002470293</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +347,7 @@
     <MESSAGE value="New Lab8" />
     <MESSAGE value="New Lab10(Not finished)" />
     <MESSAGE value="New Lab11" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Lab11" />
+    <MESSAGE value="new Lab9 and Lab12" />
+    <option name="LAST_COMMIT_MESSAGE" value="new Lab9 and Lab12" />
   </component>
 </project>
