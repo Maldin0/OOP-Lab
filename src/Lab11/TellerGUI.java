@@ -21,7 +21,7 @@ public class TellerGUI implements ActionListener{
     public TellerGUI(){
         frame = new JFrame("Teller GUI");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(300, 200);
+        frame.setSize(600, 500);
         frame.setResizable(false);
 
         container = frame.getContentPane();
@@ -68,6 +68,7 @@ public class TellerGUI implements ActionListener{
         container.add(secondPanel);
         container.add(thirdPanel);
 
+        frame.pack();
         frame.setVisible(true);
     }
 

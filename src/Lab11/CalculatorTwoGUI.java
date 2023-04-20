@@ -24,6 +24,7 @@ public class CalculatorTwoGUI implements ActionListener{
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.getContentPane().setPreferredSize(new Dimension(400,600));
         frame.setResizable(false);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         container = frame.getContentPane();
         container.setLayout(new BorderLayout());
