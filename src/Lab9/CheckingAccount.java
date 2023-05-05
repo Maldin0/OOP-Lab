@@ -28,7 +28,7 @@ public class CheckingAccount extends Account {
     public void withdraw(double a) throws WithdrawException{
         if (this.getBalance() - a < 0 & a > 0) {
             if (this.getBalance() + this.getCredit() - a < 0) {
-                throw new WithdrawException("Account "+this.getName()+" has not enough money");
+                throw new WithdrawException("WithdrawException: Account "+this.getName()+" has not enough money");
             } else {
                 this.setCredit(this.getCredit() + this.getBalance() - a);
                 this.setBalance(0);

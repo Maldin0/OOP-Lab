@@ -14,21 +14,21 @@ import java.io.*;
  * @project OOP-Lab
  */
 public class StudentView implements ActionListener, WindowListener {
-    private final JFrame frame;
-    private final Container container;
-    private final JPanel firstPanel;
-    private final JPanel secondPanel;
-    private final JPanel thirdPanel;
-    private final JPanel fourthPanel;
-    private final JLabel ID;
-    private final JLabel Name;
-    private final JLabel Money;
-    private final JTextField IDTextField;
-    private final JTextField StdTextField;
-    private final JTextField MoneyTextField;
-    private final JButton depositButton;
-    private final JButton withdrawButton;
-    private final Student student;
+    private JFrame frame;
+    private Container container;
+    private JPanel firstPanel;
+    private JPanel secondPanel;
+    private JPanel thirdPanel;
+    private JPanel fourthPanel;
+    private JLabel ID;
+    private JLabel Name;
+    private JLabel Money;
+    private JTextField IDTextField;
+    private JTextField StdTextField;
+    private JTextField MoneyTextField;
+    private JButton depositButton;
+    private JButton withdrawButton;
+    private Student student;
 
     public StudentView() {
         student = new Student();
@@ -109,7 +109,7 @@ public class StudentView implements ActionListener, WindowListener {
     }
 
     public void saveStdLog() {
-        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("StudentM.dat"))) {
+        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("StudentM.data"))) {
             student.setID(Integer.parseInt(IDTextField.getText()));
             student.setName(StdTextField.getText());
             student.setMoney(Integer.parseInt(MoneyTextField.getText()));
@@ -120,7 +120,8 @@ public class StudentView implements ActionListener, WindowListener {
     }
 
     public void loadStdLog() {
-        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream("StudentM.dat"))) {
+        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream("StudentM.data" +
+                ""))) {
             Student loadedStudent = (Student) ois.readObject();
             student.setID(loadedStudent.getID());
             student.setName(loadedStudent.getName());
