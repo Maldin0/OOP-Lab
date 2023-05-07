@@ -2,8 +2,7 @@ package Lab13;
 
 import javax.swing.*;
 import java.awt.*;
-import java.util.Calendar;
-import java.util.Random;
+
 
 /**
  * @author Maldin0

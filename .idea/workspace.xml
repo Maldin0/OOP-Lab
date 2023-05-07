@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Update Lab9 and Lab12">
-      <change afterPath="$PROJECT_DIR$/src/Lab13/MyClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab13/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab13/MyTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab13/Poring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab13/PoringConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab13/poyo-kirby.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="14b2284b-caf6-40fc-97cb-d3e9d28e6cf0" name="Changes" comment="Update Lab13">
+      <change afterPath="$PROJECT_DIR$/Book.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentM.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recap/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recap/BookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recap/TextEditor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatDemo.dat" beforeDir="false" afterPath="$PROJECT_DIR$/ChatDemo.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentM.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab11/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab12/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab12/StudentView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab9/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab13/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab13/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab13/MyTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab13/MyTimer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2KiUr6nGnKwB97ov5ziFVS1NLMB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -100,7 +101,20 @@
       <recent name="Lab3" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BookView">
+    <configuration name="BookView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recap.BookView" />
+      <module name="OOP-Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab9.ExceptionDemo" />
       <module name="OOP-Lab" />
@@ -117,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookView" />
         <item itemvalue="Application.ExceptionDemo" />
       </list>
     </recent_temporary>
@@ -178,7 +193,10 @@
       <workItem from="1683004449696" duration="22000" />
       <workItem from="1683199928853" duration="8307000" />
       <workItem from="1683208658659" duration="36000" />
-      <workItem from="1683253831158" duration="2951000" />
+      <workItem from="1683253831158" duration="2989000" />
+      <workItem from="1683257519324" duration="5356000" />
+      <workItem from="1683475063675" duration="13155000" />
+      <workItem from="1683488452826" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674459897858</created>
@@ -341,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682003305947</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update Lab13">
+      <created>1683256840403</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1683256840403</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,6 +405,7 @@
     <MESSAGE value="New Lab11" />
     <MESSAGE value="new Lab9 and Lab12" />
     <MESSAGE value="Update Lab9 and Lab12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Lab9 and Lab12" />
+    <MESSAGE value="Update Lab13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Lab13" />
   </component>
 </project>

@@ -38,21 +38,6 @@ public class MyFrame implements MouseListener {
         MyFrame myFrame = new MyFrame();
     }
 
-    private synchronized void resumeTimer() {
-        isPause = false;
-        this.notify();
-    }
-
-    private synchronized void pauseTimer() {
-        isPause = true;
-        while (isPause) {
-            try {
-                this.wait();
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
-        }
-    }
     @Override
     public void mouseClicked(MouseEvent e) {
 //        if (t.isAlive()) {
@@ -67,7 +52,7 @@ public class MyFrame implements MouseListener {
 //            synchronized (t) {
 //                t.notify();
 //            }
-//        }
+//        }n
         if (myTimer.isEnable) {
             myTimer.setForeground(Color.RED);
             myTimer.pauseTimer();

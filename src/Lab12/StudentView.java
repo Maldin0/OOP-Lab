@@ -120,8 +120,7 @@ public class StudentView implements ActionListener, WindowListener {
     }
 
     public void loadStdLog() {
-        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream("StudentM.data" +
-                ""))) {
+        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream("StudentM.data"))) {
             Student loadedStudent = (Student) ois.readObject();
             student.setID(loadedStudent.getID());
             student.setName(loadedStudent.getName());
